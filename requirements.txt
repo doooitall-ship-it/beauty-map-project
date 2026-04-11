@@ -1,5 +1,10 @@
-streamlit
-pandas
+streamlit>=1.31.0
+pandas>=2.0.0
+requests
 folium
 streamlit-folium
-streamlit-geolocation
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
